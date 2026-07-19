@@ -1,8 +1,11 @@
 # Embedded Web Server (ESP32)
 
 **Author:** Pratham Pathak
+
 **Intern ID:** CITS2620
+
 **Internship:** CodTech IT Solutions Pvt. Ltd.
+
 **Project duration:** 13 June - 26 June 2026
 
 
